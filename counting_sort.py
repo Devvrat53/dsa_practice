@@ -48,6 +48,5 @@ def counting_sort(arr):
 if __name__ == '__main__':
     arr = [4, 2, 2, 6, 3, 3, 1, 6, 5, 2, 3]
     print("Original array: ", arr)
-    n = len(arr)
     sorted_array = counting_sort(arr)
     print("Sorted array: ", sorted_array)
