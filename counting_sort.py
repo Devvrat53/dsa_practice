@@ -1,4 +1,5 @@
 '''
+Reference: https://www.youtube.com/watch?v=1mh2vilbZMg&ab_channel=BackToBackSWE
 4, 2, 2, 6, 3, 3, 1, 6, 5, 2, 3
 
 Numbers:    1 2 3 4 5 6 
