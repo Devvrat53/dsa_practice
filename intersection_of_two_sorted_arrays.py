@@ -1,3 +1,10 @@
+'''
+i
+1, 1, 2, 2, 3, 4, 5
+
+j
+1, 1, 3, 5, 6, 7
+'''
 class Solution():
     def intersect_arrays(self, arr1, arr2):
         i, j = 0, 0
